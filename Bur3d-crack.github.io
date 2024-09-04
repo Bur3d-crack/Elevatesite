@@ -190,7 +190,7 @@
             <h2 id="contact-title">Contact Us</h2>
             <p id="contact-content">Ready to elevate your business? Get in touch with us today.</p>
             <p id="contact-email">Email: info@elevateevents.com</p>
-            <p id="contact-phone">Phone: (555) 123-4567</p>
+            <p id="contact-phone">Phone: (782) 446-0014</p>
         </section>
     </main>
     <footer>
